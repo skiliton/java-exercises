@@ -17,4 +17,5 @@ public class Task5 {
             .reduce("",String::concat)
         ;
     }
+
 }

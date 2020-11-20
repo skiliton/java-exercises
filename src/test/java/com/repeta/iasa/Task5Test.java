@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import static com.repeta.iasa.Task5.meeting;
 
 class Task5Test {
+
     @Test
     public void Should_ReturnAlphabeticallyOrderedStringOfNameSurnamePairs_When_UnorderedStringIsPassed(){
         assertEquals(

@@ -1,6 +1,7 @@
 package com.repeta.iasa;
 
 public class Task3 {
+
     public static int digitalRoot(int n){
         int res = String
             .valueOf(n)
@@ -11,4 +12,5 @@ public class Task3 {
         ;
         return (res>9 ? digitalRoot(res) : res);
     };
+
 }
