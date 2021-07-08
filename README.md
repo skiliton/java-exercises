@@ -1,5 +1,5 @@
 # Java exercises
-Solutions and unit tests for java exercises
+Solutions and unit tests for java exercises for university lab
 
 ## Tasks
 ### Task №1
